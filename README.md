@@ -4,7 +4,7 @@ MSU - Homework 14: Reverse Engineering Code
 # Overview
 For this project I reverse engineered the starter code provided and wrote a tutorial for the code.
 In a Google Doc, I wrote a tutorial explaining every file and its purpose.
-I also, provided instructions for how I could add changes to this project.
+I also, provided instructions for how I could improve or add changes to this project.
 
 ```
 AS A developer
